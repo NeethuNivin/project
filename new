@@ -3,4 +3,5 @@ main()
 {
   printf("Hello...Gd mng");
   printf("Hai...gd mng too...");
+  printf("Hav a nice day..");
 }
